@@ -1,5 +1,5 @@
 # Adaptive-Model-Prediction-Control-Based-Multi-Terrain-Trajectory-Tracking-for-Mobile-Robots
-This project is associated with our paper "Adaptive Model Prediction Control-Based Multi-Terrain Trajectory Tracking Framework for Mobile Spherical Robots", and can enable the robots obtain uncertainties online and achieve multi-terrain trajectory tracking. 
+This project is related to our paper "Adaptive Model Prediction Control-Based Multi-Terrain Trajectory Tracking Framework for Mobile Spherical Robots", and enables robots to obtain uncertainties online and achieve multi-terrain trajectory tracking. 
 
 The pseudocode of AN-MPC and VAN-MPC (proposed in the paper) can be seen as follows:
 
