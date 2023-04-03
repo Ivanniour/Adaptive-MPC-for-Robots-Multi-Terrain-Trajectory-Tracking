@@ -7,4 +7,4 @@ The pseudocode of AN-MPC and VAN-MPC (proposed in the paper) can be seen as foll
 
 Related code will be open-sourced and come soon after sorting. ~~~~~
 
-This work has been submitted to the IEEE Transactions on Industrial Electronics for possible publication and is under review at present. A preprint version of the paper can be seen on arXiv. (https://arxiv.org/abs/2303.18186)
+This work has been submitted to the IEEE Transactions on Industrial Electronics (TIE) for possible publication and is under review at present. A preprint version of the paper can be seen on arXiv. (https://arxiv.org/abs/2303.18186)
